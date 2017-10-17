@@ -1,2 +1,0 @@
-# blogTest
-blog test
